@@ -15,8 +15,8 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/ImMello223" title="Mello"><img src="https://avatars.githubusercontent.com/u/72654383?v=4" width="66;" alt="Mello"/></a>
 <a href="https://github.com/MCTGyt" title="MCTGyt"><img src="https://avatars.githubusercontent.com/u/75358424?v=4" width="66;" alt="MCTGyt"/></a>
 <a href="https://github.com/WoLeo-Z" title="WoLeo-Z"><img src="https://avatars.githubusercontent.com/u/45914900?v=4" width="66;" alt="WoLeo-Z"/></a>
-<a href="https://github.com/kokona-shiki" title="Kokona_Shiki"><img src="https://avatars.githubusercontent.com/u/119119641?v=4" width="66;" alt="Kokona_Shiki"/></a>
 <a href="https://github.com/ruying-suixing" title="如形"><img src="https://avatars.githubusercontent.com/u/248474335?v=4" width="66;" alt="如形"/></a>
+<a href="https://github.com/kokona-shiki" title="Kokona_Shiki"><img src="https://avatars.githubusercontent.com/u/119119641?v=4" width="66;" alt="Kokona_Shiki"/></a>
 <a href="https://github.com/AdeleNaumann-Eyjafjalla" title="AdeleNaumann"><img src="https://avatars.githubusercontent.com/u/31750441?v=4" width="66;" alt="AdeleNaumann"/></a>
 <a href="https://github.com/jipa233" title="jipa233"><img src="https://avatars.githubusercontent.com/u/36941617?v=4" width="66;" alt="jipa233"/></a>
 <a href="https://github.com/qmxs" title="gitmba"><img src="https://avatars.githubusercontent.com/u/49803761?v=4" width="66;" alt="gitmba"/></a>
@@ -68,7 +68,7 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/Elegy17" title="星然♚"><img src="https://avatars.githubusercontent.com/u/24751111?v=4" width="66;" alt="星然♚"/></a>
 <a href="https://github.com/wumingblog" title="wumingblog"><img src="https://avatars.githubusercontent.com/u/176279568?v=4" width="66;" alt="wumingblog"/></a>
 <a href="https://github.com/kobaridev" title="江晚正愁余ฅ"><img src="https://avatars.githubusercontent.com/u/192551955?v=4" width="66;" alt="江晚正愁余ฅ"/></a>
-<a href="https://github.com/mcxiaochenn" title="小尘 Xiao Chen"><img src="https://avatars.githubusercontent.com/u/130777336?v=4" width="66;" alt="小尘 Xiao Chen"/></a>
+<a href="https://github.com/mcxiaochenn" title="辰渊尘 ChenDusk"><img src="https://avatars.githubusercontent.com/u/130777336?v=4" width="66;" alt="辰渊尘 ChenDusk"/></a>
 <a href="https://github.com/xiaolaji404" title="小垃圾"><img src="https://avatars.githubusercontent.com/u/107843497?v=4" width="66;" alt="小垃圾"/></a>
 <a href="https://github.com/yinzhuoqun" title="yinzhuoqun"><img src="https://avatars.githubusercontent.com/u/12694828?v=4" width="66;" alt="yinzhuoqun"/></a>
 <a href="https://github.com/xqk" title="Qiankun Xia"><img src="https://avatars.githubusercontent.com/u/3123993?v=4" width="66;" alt="Qiankun Xia"/></a>
