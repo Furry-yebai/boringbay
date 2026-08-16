@@ -41,8 +41,6 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/freedom2599" title="freedom2599"><img src="https://avatars.githubusercontent.com/u/148047066?v=4" width="66;" alt="freedom2599"/></a>
 <a href="https://github.com/gogei-cn" title="gogei2010"><img src="https://avatars.githubusercontent.com/u/128907557?v=4" width="66;" alt="gogei2010"/></a>
 <a href="https://github.com/guangzhoueven" title="guangzhoueven"><img src="https://avatars.githubusercontent.com/u/193498313?v=4" width="66;" alt="guangzhoueven"/></a>
-<a href="https://github.com/kufx" title="kufx"><img src="https://avatars.githubusercontent.com/u/144138627?v=4" width="66;" alt="kufx"/></a>
-<a href="https://github.com/furlingdu" title="澪度"><img src="https://avatars.githubusercontent.com/u/117048039?v=4" width="66;" alt="澪度"/></a>
 <a href="https://github.com/lololowe" title="lololololowe"><img src="https://avatars.githubusercontent.com/u/72289066?v=4" width="66;" alt="lololololowe"/></a>
 <a href="https://github.com/longchunxin" title="longchunxin"><img src="https://avatars.githubusercontent.com/u/169962016?v=4" width="66;" alt="longchunxin"/></a>
 <a href="https://github.com/lylelove" title="lyle"><img src="https://avatars.githubusercontent.com/u/61548984?v=4" width="66;" alt="lyle"/></a>
@@ -50,17 +48,18 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/nieshilin" title="nieshilin"><img src="https://avatars.githubusercontent.com/u/116864248?v=4" width="66;" alt="nieshilin"/></a>
 <a href="https://github.com/sdfghjwmbkdouble" title="sdfghjwmbkdouble"><img src="https://avatars.githubusercontent.com/u/153349302?v=4" width="66;" alt="sdfghjwmbkdouble"/></a>
 <a href="https://github.com/spiritLHLS" title="spiritlhl"><img src="https://avatars.githubusercontent.com/u/103393591?v=4" width="66;" alt="spiritlhl"/></a>
+<a href="https://github.com/tech-fever" title="tech-fever"><img src="https://avatars.githubusercontent.com/u/105153585?v=4" width="66;" alt="tech-fever"/></a>
+<a href="https://github.com/dysf888" title="黑歌"><img src="https://avatars.githubusercontent.com/u/47450409?v=4" width="66;" alt="黑歌"/></a>
+<a href="https://github.com/furlingdu" title="澪度"><img src="https://avatars.githubusercontent.com/u/117048039?v=4" width="66;" alt="澪度"/></a>
+<a href="https://github.com/kufx" title="kufx"><img src="https://avatars.githubusercontent.com/u/144138627?v=4" width="66;" alt="kufx"/></a>
 <a href="https://github.com/it985" title="it985"><img src="https://avatars.githubusercontent.com/u/62421120?v=4" width="66;" alt="it985"/></a>
 <a href="https://github.com/imshadow" title="imshadow"><img src="https://avatars.githubusercontent.com/u/23455967?v=4" width="66;" alt="imshadow"/></a>
 <a href="https://github.com/hhhkkk520" title="Kris"><img src="https://avatars.githubusercontent.com/u/52115472?v=4" width="66;" alt="Kris"/></a>
 <a href="https://github.com/gankudadiz" title="gankudadiz"><img src="https://avatars.githubusercontent.com/u/102597939?v=4" width="66;" alt="gankudadiz"/></a>
 <a href="https://github.com/dreamerhe114514" title="dreamerhe114514"><img src="https://avatars.githubusercontent.com/u/156502065?v=4" width="66;" alt="dreamerhe114514"/></a>
 <a href="https://github.com/citihu" title="citihu"><img src="https://avatars.githubusercontent.com/u/225527544?v=4" width="66;" alt="citihu"/></a>
-<a href="https://github.com/btwoa" title="btwoa"><img src="https://avatars.githubusercontent.com/u/109867618?v=4" width="66;" alt="btwoa"/></a>
 <a href="https://github.com/bbb-lsy07" title="bbb-lsy07"><img src="https://avatars.githubusercontent.com/u/183173376?v=4" width="66;" alt="bbb-lsy07"/></a>
 <a href="https://github.com/awaae001" title="awaae"><img src="https://avatars.githubusercontent.com/u/108462724?v=4" width="66;" alt="awaae"/></a>
-<a href="https://github.com/zlemoni" title="Zlemoni"><img src="https://avatars.githubusercontent.com/u/36426590?v=4" width="66;" alt="Zlemoni"/></a>
-<a href="https://github.com/dysf888" title="黑歌"><img src="https://avatars.githubusercontent.com/u/47450409?v=4" width="66;" alt="黑歌"/></a>
 <a href="https://github.com/xiaoranawa" title="霄染"><img src="https://avatars.githubusercontent.com/u/112391218?v=4" width="66;" alt="霄染"/></a>
 <a href="https://github.com/zaxigia" title="langpa"><img src="https://avatars.githubusercontent.com/u/63903027?v=4" width="66;" alt="langpa"/></a>
 <a href="https://github.com/xiangyugongzuoliu" title="翔宇工作流"><img src="https://avatars.githubusercontent.com/u/175918432?v=4" width="66;" alt="翔宇工作流"/></a>
@@ -76,10 +75,10 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/xqk" title="Qiankun Xia"><img src="https://avatars.githubusercontent.com/u/3123993?v=4" width="66;" alt="Qiankun Xia"/></a>
 <a href="https://github.com/vxincode" title="xinye"><img src="https://avatars.githubusercontent.com/u/66963380?v=4" width="66;" alt="xinye"/></a>
 <a href="https://github.com/xiaoheiyo" title="嘿哟"><img src="https://avatars.githubusercontent.com/u/26519690?v=4" width="66;" alt="嘿哟"/></a>
+<a href="https://github.com/xmoieo" title="xMoieo"><img src="https://avatars.githubusercontent.com/u/249294085?v=4" width="66;" alt="xMoieo"/></a>
 <a href="https://github.com/wzwzx" title="wzwzx"><img src="https://avatars.githubusercontent.com/u/69845256?v=4" width="66;" alt="wzwzx"/></a>
 <a href="https://github.com/tosspi" title="Masone"><img src="https://avatars.githubusercontent.com/u/91527286?v=4" width="66;" alt="Masone"/></a>
 <a href="https://github.com/tianhukj" title="tianhukj"><img src="https://avatars.githubusercontent.com/u/166341634?v=4" width="66;" alt="tianhukj"/></a>
-<a href="https://github.com/tech-fever" title="tech-fever"><img src="https://avatars.githubusercontent.com/u/105153585?v=4" width="66;" alt="tech-fever"/></a>
 <a href="https://github.com/Lafcadia" title="Percival Zheng"><img src="https://avatars.githubusercontent.com/u/147896059?v=4" width="66;" alt="Percival Zheng"/></a>
 <a href="https://github.com/Lbb886" title="LBB"><img src="https://avatars.githubusercontent.com/u/107664455?v=4" width="66;" alt="LBB"/></a>
 <a href="https://github.com/zhufacai" title="Joker"><img src="https://avatars.githubusercontent.com/u/14821269?v=4" width="66;" alt="Joker"/></a>
@@ -99,6 +98,7 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/linhaii" title="Amitabha"><img src="https://avatars.githubusercontent.com/u/32946306?v=4" width="66;" alt="Amitabha"/></a>
 <a href="https://github.com/9527DHX" title="9527DHX"><img src="https://avatars.githubusercontent.com/u/31348749?v=4" width="66;" alt="9527DHX"/></a>
 <a href="https://github.com/2022471674" title="2022471674/28.7"><img src="https://avatars.githubusercontent.com/u/177599986?v=4" width="66;" alt="2022471674/28.7"/></a>
+<a href="https://github.com/zlemoni" title="Zlemoni"><img src="https://avatars.githubusercontent.com/u/36426590?v=4" width="66;" alt="Zlemoni"/></a>
 <a href="https://github.com/ZhouyiStudio" title="𝖅𝖍𝖔𝖚𝖞𝖎"><img src="https://avatars.githubusercontent.com/u/160443385?v=4" width="66;" alt="𝖅𝖍𝖔𝖚𝖞𝖎"/></a>
 <a href="https://github.com/ZebinGao" title="Zebin"><img src="https://avatars.githubusercontent.com/u/46494321?v=4" width="66;" alt="Zebin"/></a>
 <a href="https://github.com/akaTiger" title="Yicheng Ding"><img src="https://avatars.githubusercontent.com/u/74623731?v=4" width="66;" alt="Yicheng Ding"/></a>
@@ -111,9 +111,8 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/suuseer" title="SeerSu"><img src="https://avatars.githubusercontent.com/u/129711970?v=4" width="66;" alt="SeerSu"/></a>
 <a href="https://github.com/zheep1209" title="zheep"><img src="https://avatars.githubusercontent.com/u/148862646?v=4" width="66;" alt="zheep"/></a>
 <a href="https://github.com/kuang2714" title="Redcha"><img src="https://avatars.githubusercontent.com/u/149299632?v=4" width="66;" alt="Redcha"/></a>
-<a href="https://github.com/fly6022" title="KuriCL"><img src="https://avatars.githubusercontent.com/u/42091262?v=4" width="66;" alt="KuriCL"/></a>
 <a href="https://github.com/rabbitxuanxuan" title="Rabbit_xuan"><img src="https://avatars.githubusercontent.com/u/112363084?v=4" width="66;" alt="Rabbit_xuan"/></a>
-<a href="https://github.com/Pstarchen" title="Pstarchen"><img src="https://avatars.githubusercontent.com/u/102441220?v=4" width="66;" alt="Pstarchen"/></a>
+<a href="https://github.com/Pstarchen" title="StarChen"><img src="https://avatars.githubusercontent.com/u/102441220?v=4" width="66;" alt="StarChen"/></a>
 <a href="https://github.com/Peter267" title="Peter267"><img src="https://avatars.githubusercontent.com/u/175904095?v=4" width="66;" alt="Peter267"/></a>
 <a href="https://github.com/xiangleovo" title="OvO"><img src="https://avatars.githubusercontent.com/u/95113433?v=4" width="66;" alt="OvO"/></a>
 <a href="https://github.com/lucki-cn" title="LuckyDog"><img src="https://avatars.githubusercontent.com/u/23611464?v=4" width="66;" alt="LuckyDog"/></a>
